@@ -1,0 +1,13 @@
+Assistant checkpoint: Remove Plus and L graph plotting options
+
+Assistant generated file changes:
+- pages/5_Math_Graph_Analysis.py: Remove Plus and L graphs
+
+---
+
+User prompt:
+
+cancel the ploting of L and plus graph
+
+Replit-Commit-Author: Assistant
+Replit-Commit-Session-Id: 77b93638-0d91-47c0-b320-25ebca6667e9
